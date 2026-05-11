@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ce381d149acbba4aa131df2b089e13e, type: 3}
+  m_Name: Wave_01
+  m_EditorClassIdentifier: Assembly-CSharp::SuperRodentGame.Combat.WaveDefinition
+  entries:
+  - enemyPrefab: {fileID: 8279544177513481311, guid: c20127d9597f5104697285ec3df32681, type: 3}
+    count: 12
+    spawnInterval: 1.5
